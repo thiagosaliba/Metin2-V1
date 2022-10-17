@@ -1,0 +1,84 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+					TURKMMO 2022
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+FreeBSD 11.4 amd64 - 12.2 amd64 , MySQL 8.0
+
+Gerekli paketler:
+
+pkg install -y boost-all devil cryptopp openssl googletest gcc llvm gmake makedepend python python2 python27 mysql80-server gdb compat8x-amd64
+
+Yukarıdaki komutu çalıştırdıktan veya MySQL paketini yüklemeyi bitirdikten sonra,
+bağlantı adresini “0.0.0.0” olarak değiştirin ve sql-mode alanını herhangi bir değer olmadan ekleyin.
+
+Sırası ile:
+
+sysrc mysql_enable="YES"
+ee /usr/local/etc/mysql/my.cnf
+
+bind-address                    = 0.0.0.0
+innodb_autoinc_lock_mode        = 2 'nin altına 
+sql-mode                        = ekliyoruz ve kayıt ediyoruz.(ESC+ESC ENTER)
+
+service mysql-server restart
+
+
+WinSCP ile cd /usr dizinine home.tar.gz dosyasını kopyalıyoruz.
+
+	   cd /var/db dizinine mysql.tar.gz dosyasını kopyalıyoruz.
+
+Putty ile 
+
+cd /usr
+tar zxvf home.tar.gz
+
+cd /var/db
+rm -rf mysql
+tar zxvf mysql.tar.gz
+
+yüklemeler tamamlanınca
+
+reboot çekiyoruz
+
+FreeBSD yeniden başladıktan sonra login oluyoruz ve
+
+cd /usr/home/m2server/server
+
+sh start.sh yazıp kanalları açıyoruz.
+
+=========================================================================================
+
+GAME VE DB BUİLD İÇİN:
+
+cd /usr/home/m2server/source/mainline_update/Source
+
+gmake all -j4
+
+=======================================================================================
+Giriş Bilgileri
+
+ID: turkmmo
+PW: turkmmo
+
+MySQL Bilgileri
+
+username: turkmmo
+password: turkmmo
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+					TURKMMO 2022
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+

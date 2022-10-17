@@ -1,0 +1,9 @@
+[DELAY value;0]
+[DELAY value;0][ENTER]
+ÉVÈNEMENT DU RAMADAN[ENTER]
+[ENTER]
+Rendez-vous régulièrement auprès de l'historien et obtenez des objets[ENTER]
+précieux à la fin du ramadan pour améliorer votre efficacité.[ENTER]
+[ENTER]
+Lorsque vous recevez du pain et des fruits de la bénédiction, ces[ENTER]
+derniers sont enregistrés dans l'interface d'évènement.

@@ -1,0 +1,1 @@
+#include "../EterBase/CRC32.h"

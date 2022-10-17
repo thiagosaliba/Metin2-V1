@@ -1,0 +1,9 @@
+[DELAY value;0]
+[DELAY value;0][ENTER]
+EVENTO DE RAMADÁN[ENTER]
+[ENTER]
+Visitad a menudo al Historiador para aseguraros buenos objetos al final[ENTER]
+del Evento de Ramadán por vuestro empeño.[ENTER]
+[ENTER]
+Si recibís pan o frutos de la bendición, estos se almacenarán en la IU[ENTER]
+del evento.

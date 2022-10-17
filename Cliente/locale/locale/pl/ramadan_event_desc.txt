@@ -1,0 +1,9 @@
+[DELAY value;0]
+[DELAY value;0][ENTER]
+EVENT RAMADAN[ENTER]
+[ENTER]
+Odwiedzajcie regularnie historyka i zgarnijcie na zakoñczenie Ramadanu[ENTER]
+cenne przedmioty za swoje dobre czyny.[ENTER]
+[ENTER]
+Jeœli otrzymacie chleb lub owoce b³ogos³awieñstwa, zostan¹ one zapisane[ENTER]
+w interfejsie eventu.

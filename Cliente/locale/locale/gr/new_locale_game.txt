@@ -1,0 +1,136 @@
+NEW_LOCALE_GAME_STRINGS	NEW_LOCALE_GAME_STRINGS
+SHOP_NOT_ENOUGH_ITEM	You don't have enough items.
+SHOP_NOT_ENOUGH_EXP	You don't have enough experience.
+PVP_LEVEL0_M	Chivalric
+PVP_LEVEL1_M	Noble
+PVP_LEVEL2_M	Good
+PVP_LEVEL3_M	Friendly
+PVP_LEVEL4_M	Neutral
+PVP_LEVEL5_M	Aggressive
+PVP_LEVEL6_M	Fraudulent
+PVP_LEVEL7_M	Malicious
+PVP_LEVEL8_M	Cruel
+PVP_LEVEL0_F	Chivalric
+PVP_LEVEL1_F	Noble
+PVP_LEVEL2_F	Good
+PVP_LEVEL3_F	Friendly
+PVP_LEVEL4_F	Neutral
+PVP_LEVEL5_F	Aggressive
+PVP_LEVEL6_F	Fraudulent
+PVP_LEVEL7_F	Malicious
+PVP_LEVEL8_F	Cruel
+GUILD_LEADER_GRADE0	Leader of 
+GUILD_LEADER_GRADE1	General of 
+RESTART_CLIENT_DO_YOU_ACCEPT_1	The client must be restarted for the changes to take effect.
+RESTART_CLIENT_DO_YOU_ACCEPT_2	Do you want to restart the client now?
+SKILL_COLOR_SELECT_FIRST	First choose a color.
+SKILL_COLOR_PICK_TOOLTIP	Choose the desired color. (HEX Code : %s)
+SKILL_COLOR_PRESET_TOOLTIP_TITLE	Color Preset
+SKILL_COLOR_PRESET_TOOLTIP_1	You can save a color chosen for your skill.
+SKILL_COLOR_PRESET_TOOLTIP_2	Save the chosen color and if you need the color again
+SKILL_COLOR_PRESET_TOOLTIP_3	just select the color code from the list.
+SKILL_COLOR_CUSTOM_HEX_CODE_TOOLTIP_TITLE	Color Code
+SKILL_COLOR_CUSTOM_HEX_CODE_TOOLTIP_1	You can enter a custom color HEX Code.
+SKILL_COLOR_CUSTOM_HEX_CODE_TOOLTIP_2	For example #FFFFFF (White)
+SKILL_COLOR_DO_YOU_RESET	Do you want to reset the color of your skill?
+SKILL_COLOR_DO_YOU_CHANGE	Do you want to change the color of your skill?
+SKILL_COLOR_SELECT_PRESET	Select a color
+SKILL_COLOR_SELECT_PRESET_NONE	No saved colors
+SKILL_COLOR_CANNOT_SAVE	You cannot save more colors.
+SKILL_COLOR_USE_EXTERNAL_TABLE	Use external color table.
+TARGET_INFO_DAMAGE	Attack Damage : %s - %s
+TARGET_INFO_DEFENSE	Defense Value : %s
+TARGET_INFO_EXP	Experience : %s
+TARGET_INFO_MAINRACE	Race : %s
+TARGET_INFO_MAX_HP	Max. HP : %s
+TARGET_INFO_NO_ITEM_TEXT	No item drop
+TARGET_INFO_NO_RACE	Unkown
+TARGET_INFO_RACE_METIN	Metin
+TARGET_INFO_RACE_ANIMAL	Animal
+TARGET_INFO_RACE_UNDEAD	Undead
+TARGET_INFO_RACE_DEVIL	Devil
+TARGET_INFO_RACE_HUMAN	Half Human
+TARGET_INFO_RACE_ORC	Orc
+TARGET_INFO_RACE_MILGYO	Mystic
+TARGET_INFO_RACE_INSECT	Insect
+TARGET_INFO_RACE_DESERT	Desert
+TARGET_INFO_RACE_TREE	Tree
+TARGET_INFO_RACE_ELEC	Lightning
+TARGET_INFO_RACE_FIRE	Fire
+TARGET_INFO_RACE_ICE	Ice
+TARGET_INFO_RACE_WIND	Wind
+TARGET_INFO_RACE_EARTH	Earth
+TARGET_INFO_RACE_DARK	Dark
+TARGET_INFO_RACE_CZ	Zodiac
+TARGET_INFO_STONE_NAME	Spirit Stone
+TARGET_INFO_RESISTS	Resistance:
+TARGET_INFO_RESISTS_LINE0	Swords: %d%% Two Hands: %d%% Bells: %d%%
+TARGET_INFO_RESISTS_LINE1	Daggers: %d%% Fans: %d%% Bows: %d%%
+TARGET_INFO_RESISTS_LINE2	Daggers: %d%% Fans: %d%% Bows: %d%% Claws: %d%%
+TARGET_INFO_REGEN_INFO	Regeneration %d%% each %d sec.
+TARGET_INFO_GOLD_MIN_MAX	Yang : %s ~ %s
+TARGET_INFO_SUBRACE	Subspecies : %s
+REFINE_AUTO	Keep the refining window open
+SPECIAL_INVENTORY_SKILL_BOOK	Books
+SPECIAL_INVENTORY_MATERIAL	Materials
+SPECIAL_INVENTORY_STONE	Spirit Stones
+SPECIAL_INVENTORY_CHEST	Chests
+INFINITE_USE	Infinite Use
+BLEND_ITEM_TOOLTIP_APPLY	Effect activated
+BLEND_ITEM_TOOLTIP_UNAPPLIED	Effect deactivated
+BLEND_ITEM_TOOLTIP_NO_TIME	No use time
+TOOLTIP_AFFECT_BLEND_POTION_1	Probability of Critical Hits	SNA
+TOOLTIP_AFFECT_BLEND_POTION_2	Probability of Piercing Hits	SNA
+TOOLTIP_AFFECT_BLEND_POTION_3	Attack Speed	SNA
+TOOLTIP_AFFECT_BLEND_POTION_4	Magic Resistance	SNA
+TOOLTIP_AFFECT_BLEND_POTION_5	Attack Value	SNA
+TOOLTIP_AFFECT_BLEND_POTION_6	Defense	SNA
+TOOLTIP_AFFECT_ENERGY	Energy	SNA
+TOOLTIP_AFFECT_DRAGON_GOD_1	Increases your maximum HP	SNA
+TOOLTIP_AFFECT_DRAGON_GOD_2	Increases your attack value	SNA
+TOOLTIP_AFFECT_DRAGON_GOD_3	Increases your maximum SP	SNA
+TOOLTIP_AFFECT_DRAGON_GOD_4	Lowers the damage you receive during combat	SNA
+TOOLTIP_AFFECT_CRITICAL	Increases the chance of landing a critical hit	SNA
+TOOLTIP_AFFECT_PENETRATE	Increases the chance of a piercing hit	SNA
+TOOLTIP_AFFECT_ATTACK_SPEED	Increases your attack speed	SNA
+TOOLTIP_AFFECT_MOVE_SPEED	Boosts your motion speed	SNA
+CAPTCHA	Captcha.
+CAPTCHA_TOOLTIP	You have %s seconds to insert the Captcha %s.
+CAPTCHA_WRONG	Wrong Captcha, you will be disconnected from the game!
+CAPTCHA_EMPTY	Insert the Captcha!
+CAPTCHA_TIMEOUT	You will be disconnected from the game!
+DUNGEON_INFO_TYPE0	Unkown
+DUNGEON_INFO_TYPE1	Private
+DUNGEON_INFO_TYPE2	Global
+DUNGEON_INFO_ORGANIZATION0	None
+DUNGEON_INFO_ORGANIZATION1	Party
+DUNGEON_INFO_ORGANIZATION2	Guild
+DUNGEON_INFO_NONE	None
+DUNGEON_INFO_DO_YOU_TELEPORT	Do you want to teleport to %s?
+DUNGEON_INFO_STATUS0	Accessible
+DUNGEON_INFO_STATUS1	In progress
+DUNGEON_INFO_STATUS2	Closed
+DUNGEON_LEVEL_LIMIT_MAX_PASS	Level too high!
+DUNGEON_LEVEL_LIMIT_MIN_PASS	Level too low!
+MINIMAP_SHOW_DUNGEON_INFO	Dungeon information
+TOOLTIP_ITEM_SUMMON	Summon
+TOOLTIP_ITEM_MOUNT	Mount
+TOOLTIP_ITEM_SLOTS	Slots
+MAP_NONE	Unkown
+MESSENGER_GM	Team
+INVENTORY_DO_YOU_SORT	Do you really want to organize your inventory?
+SPECIAL_INVENTORY_DO_YOU_SORT	Do you really want to organize your special inventory?
+SHOW_COSTUME	Show Costume
+HIDE_COSTUME	Hide Costume
+ACCE_DO_YOU_CLEAN	Do you really want to remove the bonuses from this Shoulder Sash?
+ACCE_FAILURE_CLEAN	There are no bonus to clean!
+CHANGE_LOOK_DO_YOU_CLEAN	Do you really want to reverse the transmutation?
+CHANGE_LOOK_FAILURE_CLEAN	There is no transmutation to reverse!
+INPUT_PIN_CODE_DIALOG_TITLE	Pin Code
+SELECT_WRONG_PIN_CODE	Wrong Pin Code!
+SELECT_NOT_MATCH_PIN_CODE	The two pin codes do not match.
+PIN_CODE_TOOLTIP_LINE1	Already changed your character's pin code?
+PIN_CODE_TOOLTIP_LINE2	If not, your password will be '0000'.
+PIN_CODE_TOOLTIP_LINE3	You can change your pin code in storage.
+PIN_CODE_TOOLTIP_LINE4	If you lost your character's code you will have to ask for
+PIN_CODE_TOOLTIP_LINE5	recovery through the official website.

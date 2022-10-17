@@ -1,0 +1,9 @@
+[DELAY value;0]
+[DELAY value;0][ENTER]
+EVENTO DEL RAMADAN[ENTER]
+[ENTER]
+Andate a trovare regolarmente lo Storico: al termine del Ramadan, la[ENTER]
+vostra bravura verrà ricompensata con preziosissimi item![ENTER]
+[ENTER]
+Se ricevete pane o frutta, questi item verranno salvati nell'interfaccia[ENTER]
+dell'evento.
